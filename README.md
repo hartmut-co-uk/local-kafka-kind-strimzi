@@ -1,0 +1,1 @@
+# local-kafka-kind-strimzi
